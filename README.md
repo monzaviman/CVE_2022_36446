@@ -2,4 +2,17 @@
 This is a script for version detection of Webmin remote server interface.
 
 
-### Behnam & Sina
+## Features
+
+- [X]: Check CVE-2022-36446 for a url
+- [X]: Check CVE-2022-36446 for an IP / Auto-Detection for Redirect URL
+
+## Usage
+
+
+
+## Requirements
+
+## References
+https://nvd.nist.gov/vuln/detail/CVE-2022-36446
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-36446
