@@ -13,6 +13,10 @@ This is a script for version detection of Webmin remote server interface.
 
 ## Requirements
 
+requests
+
+bs4
+
 ## References
 https://nvd.nist.gov/vuln/detail/CVE-2022-36446
 
