@@ -9,7 +9,7 @@ This is a script for version detection of Webmin remote server interface.
 
 ## Usage
 
-
+![alt text](https://github.com/monzaviman/CVE_2022_36446/blob/main/image.jpg?raw=true)
 
 ## Requirements
 
