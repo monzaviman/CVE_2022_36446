@@ -8,7 +8,7 @@
 
 ## Usage
 
-![alt text](https://github.com/monzaviman/CVE_2022_36446/blob/main/CVE_2022_36446.png?raw=true)
+![alt text](https://github.com/monzaviman/CVE_2022_36446/blob/main/CVE_2022_36446.jpg?raw=true)
 
 ## Requirements
 
