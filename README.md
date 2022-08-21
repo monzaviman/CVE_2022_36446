@@ -14,7 +14,7 @@ This is a script for version detection of Webmin remote server interface.
 ## Requirements
 
 - requests
-
+- 
 - bs4
 
 ## References
