@@ -1,5 +1,5 @@
 # CVE_2022_36446
-<b>This is a script for version detection of Webmin remote server interface.</b>
+<b>a python script for version detection of <a href= "https://www.webmin.com/">Webmin</a> remote server interface.</b>
 
 ## Features
 
