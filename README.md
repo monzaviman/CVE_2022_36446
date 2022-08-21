@@ -15,4 +15,5 @@ This is a script for version detection of Webmin remote server interface.
 
 ## References
 https://nvd.nist.gov/vuln/detail/CVE-2022-36446
+
 https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-36446
